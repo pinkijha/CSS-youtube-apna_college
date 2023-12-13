@@ -1,0 +1,89 @@
+.box-model{
+    border: 1px blue double;
+    height: 200px;
+    width: 200px;
+    padding: 20px;
+    background-color: rgb(16, 145, 102);
+    border-radius: 50%;
+    margin-top: 20px;
+
+}
+.box-model1{
+    border: 1px blue double;
+    height: 200px;
+    width: 200px;
+    padding: 20px;
+    background-color: rgb(237, 60, 33);
+    border-radius: 50%;
+    margin-top: 20px;
+
+}
+.box-model2{
+    border: 1px blue double;
+    height: 200px;
+    width: 200px;
+    padding: 20px;
+    background-color: rgb(119, 145, 16);
+    border-radius: 50%;
+    margin-top: 20px;
+
+}
+
+.box-model1{
+    border: 1px blue double;
+    height: 200px;
+    width: 200px;
+    background-color: aquamarine;
+    border-radius: 5px;
+    margin-top: 20px;
+
+}
+
+.nav-body{
+    background-color: rgb(5, 5, 125);
+}
+div{
+
+    display: inline-block;
+}
+.nav-box-model{
+    margin-right: 15%;
+    color:orange;
+    font-size: 25px;
+    font-weight: bold;
+}
+.nav-box-model1{
+    margin-right: 200px;
+}
+.nav-box-model2{
+    margin-right: 200px;
+}
+.nav-box-model3{
+    margin-right: 200px;
+}
+.nav-box-mode4{
+    margin-right: 200px;
+}
+
+.nav-box-model5{
+    margin-right: 200px;
+
+}
+
+.nav{
+
+    background-color:black;
+    color: white;
+    border: 7px solid white;
+    width: 100%;
+    padding-bottom: 15px;
+    height: 60px;
+}
+.btn-nav{
+    background-color: orange;
+    color: white;
+}
+a{
+    text-decoration: none;
+    color: white;
+}

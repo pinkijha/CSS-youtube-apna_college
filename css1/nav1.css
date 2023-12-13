@@ -1,0 +1,26 @@
+*{
+    color: white;
+
+}
+body{
+    
+    background-color: rgb(66, 66, 250);
+}
+.model-class{
+    background-color: black;
+    height: 60px;
+    text-decoration: none;
+    border: 5px white solid;
+
+}
+#logo{
+color: #f08804;
+font-size: 25px;
+}
+button{
+    background-color: #f08804;
+}
+a{
+    text-decoration: none;
+    margin-right: 200px;
+}

@@ -1,0 +1,61 @@
+
+.flx{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.trans{
+    height: 200px;
+    width: 200px;
+    background: red;
+    border: 1px rgb(21, 4, 4) solid;
+    margin-top: 30px;
+    transition: all 3s ease-in;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+
+.trans1{
+    height: 200px;
+    width: 200px;
+    background: rgb(242, 255, 0);
+    border: 1px rgb(21, 4, 4) solid;
+    margin-top: 30px;
+    margin-left: 20px;    
+    transition: all 3s ease-in-out 3s;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+
+.trans:hover{   
+    background-color: green;
+    color: aliceblue;
+    cursor: pointer;
+    padding: 20px;
+    font-size: 25px;
+    height: 400px;
+    width: 400px;
+    border: 12px rgb(179, 255, 0) solid;
+    border-radius: 50%;
+    transition-timing-function: steps(5, jump-both);
+    
+}
+
+.trans1:hover{   
+    background-color: rgb(0, 4, 128);
+    color: aliceblue;
+    cursor: pointer;
+    padding: 20px;
+    font-size: 25px;
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+    border: 12px rgb(179, 255, 0) solid;
+    
+}

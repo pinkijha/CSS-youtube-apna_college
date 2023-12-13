@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div{
+    height: 200px;
+    width: 200px;
+    background-image: url('f2.avif');
+    background-size: cover;
+    position: fixed;
+    right: 0px;
+    border: 1pb blue double;
+    border-radius: 50%;
+    text-align: center;
+    padding: 20px;
+    color: rgb(75, 84, 7)
+}

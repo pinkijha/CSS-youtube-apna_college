@@ -1,0 +1,23 @@
+body{
+    background-color: bisque;
+}
+
+div{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+}
+.outer{
+    background-color: aqua;
+    border: 1px solid blue;
+    height: 300px;
+    width: 300px;
+}
+
+.inner{
+    background-color: blue;
+    border: 1px solid blue;
+    height: 100px;
+    width: 100px;
+}
